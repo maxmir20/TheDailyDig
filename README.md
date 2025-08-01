@@ -1,5 +1,5 @@
+<img src=https://github.com/user-attachments/assets/5a10662a-e2e6-4670-a2ad-436f450d899c width="400"/>
 
-![IMG_20250731_173943](https://github.com/user-attachments/assets/5a10662a-e2e6-4670-a2ad-436f450d899c)
 ### Summary
 
 Python program for helping you learn by automatically opening a random selection of articles every day
